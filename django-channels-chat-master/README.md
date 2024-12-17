@@ -34,7 +34,6 @@ Please take a look at the link below for more information:
 https://channels.readthedocs.io/en/latest/introduction.html
 
 
-**update 04/06/19**
 
 - using pipenv for package management
 - move to Channels 2
